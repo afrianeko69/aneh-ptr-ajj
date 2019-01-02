@@ -1,0 +1,31 @@
+:root {
+  --swal-blue: #C9DAE1;
+}
+
+.swal-icon--info {
+  border-color: var(--swal-blue);
+  }
+  /* "i"-letter body */
+  .swal-icon--info:before {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 29px;
+    left: 50%;
+    bottom: 17px;
+    border-radius: 2px;
+    margin-left: -2px;
+    background-color: var(--swal-blue);
+  }
+  /* "i"-letter dot */
+  .swal-icon--info::after {
+    content: "";
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin-left: -3px;
+    top: 19px;
+    background-color: var(--swal-blue);
+    left: 50%;
+  }
