@@ -33,7 +33,7 @@
     @include('layouts.pintaria3.partials.modal')
     @include('layouts.pintaria3.partials.javascript')
     <script src="{{ asset('pintaria3/js/jquery-2.2.4.min.js')}}"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="pintaria3/js/sweetalert.min.js"></script>
     <script src="{{ mix('js/common-v3.min.js') }}"></script>
     <script src="{{ mix('js/custom-v3.min.js') }}"></script>
     @stack('additional.script')
