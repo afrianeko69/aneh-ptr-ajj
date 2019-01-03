@@ -39,7 +39,7 @@
         // Picture element HTML5 shiv
         document.createElement( "picture" );
     </script>
-    <script type="text/javascript" src="https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.min.js" async></script>
+    <script type="text/javascript" src="pintaria3/js/picturefill.min.js" async></script>
 </head>
 <body>
     @include('shared.gtm-no-js')
@@ -148,7 +148,7 @@
     <!-- COMMON SCRIPTS -->
     @include('layouts.pintaria3.partials.javascript')
     @include('layouts.pintaria3.partials.modal')
-    <script src="//unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="pintaria3/js/sweetalert.min.js"></script>
     <script src="{{ mix('js/common-v3.min.js') }}"></script>
     <script type="text/javascript">
         'use strict';

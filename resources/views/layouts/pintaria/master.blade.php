@@ -36,7 +36,7 @@
         // Picture element HTML5 shiv
         document.createElement( "picture" );
     </script>
-    <script type="text/javascript" src="https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.min.js" async></script>
+    <script type="text/javascript" src="pintaria3/js/picturefill.min.js" async></script>
 
 </head>
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed"> 
