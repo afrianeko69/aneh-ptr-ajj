@@ -26,8 +26,6 @@
     @endif
     @include('shared.zopim')
     <link href='fonts/fontawesome-webfont.woff2' rel='stylesheet' type='text/css'>
-
-    <!-- <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'> -->
     <link rel="stylesheet" type="text/css" href="{{ mix('css/vendor-v3.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ mix('css/custom-v3.min.css') }}">
 

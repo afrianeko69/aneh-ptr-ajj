@@ -20,7 +20,6 @@
 
     <link href="https://fonts.googleapis.com/css?family=Leckerli+One" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-    <!-- <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'> -->
     <link href='fonts/fontawesome-webfont.woff2' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" type="text/css" href="{{ mix('css/vendor-v3.min.css') }}">
