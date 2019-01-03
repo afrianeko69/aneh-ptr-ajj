@@ -145,7 +145,7 @@ Kursus online atau kelas online Data Science di Pintaria bagi kamu yang tertarik
                 <div class="testy">
                     <span class="pic-wrap"><img src="{{url('pintaria3/img/Achmad_Yudha_Utomo.jpg')}}"></span>
                     <p class="font18 center">
-                        "Sangat kemprehensif, terutama untuk bagian Deskriptif Analytics-nya, karena mencakup beberapa
+                        "Sangat bagus dan kemprehensif, terutama untuk bagian Deskriptif Analytics-nya, karena mencakup beberapa
                         fitur core yang akan digunakan di dunia nyata (fungsi-fungsi excel yang umum digunakan, summarize data dengan Pivot, visualizasi dengan berbagai macam chart, serta bagaimana men-deliver insights melalui dashboard yang
                         interaktif dan informatif)."
                         <br/><br/>
